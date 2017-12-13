@@ -1,2 +1,0 @@
-# SmartListBox
-Custom ListBox Control
